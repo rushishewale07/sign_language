@@ -1,6 +1,6 @@
 # Sign/Gesture_language_Recognition_Model
 
-]
+
 
 Indira College Of Engineering & Management
 
