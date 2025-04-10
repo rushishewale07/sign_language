@@ -2,7 +2,7 @@
 
 
 
-Indira College Of Engineering & Management
+PBL Project SE Comp Indira College Of Engineering & Management
 
 🖐️ Sign Language Recognition Model
 🌟 Overview
